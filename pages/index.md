@@ -1,12 +1,14 @@
 ---
-title: Page One
+title: Open Data Commons
 lead: true
 ---
+Open Data Commons is the home of a set of legal tools to help you provide and use Open Data
+* [Licenses and Dedications](https://opendatacommons.org/licenses/)
+* [2-minute Guide to Making Your Data Open](https://opendatacommons.org/guide/)
+* [Find Out More About the Project](https://opendatacommons.org/about/)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+If you’re wondering about things like: [why open data matters?](https://opendatacommons.org/faq) Or [why do I need this legal stuff, can’t I just post my data online?](https://opendatacommons.org/faq) We suggest you check out the [FAQ](https://opendatacommons.org/faq). If you want to know what we mean by open data visit the [Open Definition which defines open in relation to data and content](http://opendefinition.org/).
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+You may also like to join [our discussion list](https://lists.okfn.org/mailman/listinfo/odc-discuss).
 
-## Why do we use it?
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+You should also read our [full legal disclaimer](https://opendatacommons.org/disclaimers).
